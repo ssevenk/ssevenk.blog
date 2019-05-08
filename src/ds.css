@@ -1,0 +1,6 @@
+.d {
+    display:flex;
+    justify-content:center;
+    color:rgb(51, 49, 49);
+    transform:scale(2)
+}
