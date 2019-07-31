@@ -9,6 +9,6 @@ node app.js
 
 打开浏览器，输入localhost://8080/#/
 
-关于本系统的制作教程：https://segmentfault.com/a/1190000019111452
+关于本系统的制作教程：http://www.ssevenk.com/#/TheOne/blog/5d3b1ceafda1fd67a476fa4f
 
 
